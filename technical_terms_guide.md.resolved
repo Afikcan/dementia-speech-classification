@@ -1,0 +1,27 @@
+# Technical Terms Guide: Dementia Assessment Project
+
+This document provides clear explanations for common technical terms used in this project, categorized by data, model architecture, and optimization.
+
+## 1. Core Model Architectures
+- **Wav2Vec2:** A model from Meta (Facebook) that learns to understand human speech by listening to raw audio without labels first (self-supervised learning). It's like a person learning a language just by overhearing conversations.
+- **Transformer:** The "engine" behind modern AI. It uses **Attention Mechanisms** to decide which parts of the input (parts of a sentence or segments of audio) are most important for the final decision.
+- **AST (Audio Spectrogram Transformer):** A model that visualizes audio as a "picture" (spectrogram) and then uses a Vision Transformer to analyze that picture.
+- **HuBERT (Hidden-Unit BERT):** Similar to Wav2Vec2, but it discovers hidden "units" in speech (like phonemes) using a clustering technique, making it very robust for speech classification.
+- **Encoder:** The part of the model that translates raw input (audio) into a mathematical representation that the computer can understand.
+
+## 2. Advanced Concepts
+- **Spectrogram:** A visual representation of the spectrum of frequencies of a signal as it varies with time. It looks like a heat map of sound.
+- **Explainability (XAI):** Tools and techniques to make the "black box" of AI understandable. In this project, it means showing *why* the model thinks someone might have dementia (e.g., highlighting a long pause).
+- **Attention Map:** A visualization of what the Transformer is looking at. High "attention" in a specific segment means the model found that part very relevant to its diagnosis.
+- **Augmentation:** Artificially increasing the size of your dataset by making slight changes to existing data (e.g., adding background noise or slightly changing the pitch of a voice).
+
+## 3. Performance & Optimization
+- **Quantization (PTQ):** A technique to make a model smaller and faster by reducing the precision of its numbers (e.g., from 32-bit floats to 8-bit integers). It's like saving a photo as a smaller, compressed JPEG.
+- **Inference:** The process of using a trained model to make predictions on new data. "Inference speed" is how quickly the model can diagnose one audio file.
+- **Generalizability:** How well the model performs on data it has never seen before, especially from different populations or recording environments.
+- **Fine-tuning:** Taking a pre-trained model (that already knows "how speech works") and training it specifically on your small dementia dataset.
+
+## 4. Evaluation Metrics
+- **Accuracy:** The percentage of total predictions that were correct.
+- **Baseline:** The performance of a simple or existing approach, used as a starting point to see if your new ideas are actually better.
+- **Overfitting:** When a model memorizes the training data instead of learning general patterns. It performs great on training data but poorly on any new "unseen" data.
