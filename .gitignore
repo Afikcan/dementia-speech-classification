@@ -66,3 +66,7 @@ mlruns/
 *.zip
 *.tar.gz
 *.rar
+
+# AI assistant configuration
+CLAUDE.md
+.claude/
