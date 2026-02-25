@@ -1,182 +1,251 @@
 # Dementia Assessment from Speech Audio
 
-A deep learning project for binary classification of dementia from speech audio using fine-tuned transformer-based audio models (Wav2Vec2, AST, HuBERT, Whisper).
+Fine-tuned Wav2Vec2 model for binary dementia classification from speech.
 
-## Overview
+**Performance**: 76.4% accuracy, 43.8% recall for dementia on test set (72 samples)
 
-This project uses the **DementiaNet** corpus to classify speech recordings as either dementia or nodementia. The goal is to improve upon a baseline 37.5% accuracy (from a 4-class task) by:
+---
 
-1. Simplifying to binary classification (dementia vs nodementia)
-2. Adding explainability via attention map visualization
-3. Optimizing for deployment via INT8 quantization
-4. Implementing audio augmentation techniques
+## Quick Start
 
-**Course Project** - Instructor: Zongxing Xie
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Open training notebook
+jupyter notebook train_v2_improved.ipynb
+
+# Run all cells - training takes ~45 minutes on A100
+```
+
+---
+
+## Results
+
+Model: `facebook/wav2vec2-base` fine-tuned (94.5M parameters)
+Dataset: DementiaNet + ADReSSo21 (621 samples total)
+
+### Test Set (72 held-out samples)
+
+| Metric | Value |
+|--------|-------|
+| Accuracy | 76.39% |
+| F1-macro | 65.1% |
+| Recall (dementia) | 43.75% |
+| Recall (nodementia) | 85.71% |
+| Precision (dementia) | 46.67% |
+| Precision (nodementia) | 84.21% |
+
+### Confusion Matrix
+
+```
+                Predicted
+             Dementia  NoDementia
+Actual Dem      7         9
+       NoDem    8        48
+```
+
+**Key point**: The model predicts both classes. Previous version (V1) only predicted "nodementia" - completely broken.
+
+See [RESULTS.md](RESULTS.md) for details.
+
+---
+
+## What Makes It Work
+
+- **Class weighting**: Penalizes dementia misclassification 2x more
+- **Oversampling**: Balances training set to 50/50
+- **Data augmentation**: Noise, time stretch, pitch shift, time shift
+- **15-second audio clips**: More context than typical 10s
+- **F1-macro metric**: Better than accuracy for imbalanced data
+- **Patient-level splitting**: Prevents data leakage
+
+---
 
 ## Dataset
 
-**DementiaNet Corpus:**
-- 455 audio clips (.wav files)
-- 215 speakers (84 dementia, 131 nodementia)
-- Class distribution: ~29% dementia, ~71% nodementia (imbalanced)
-- Organized in `data/dementia/` and `data/nodementia/` folders by speaker
+**Combined from two sources:**
+1. DementiaNet: 455 samples (celebrity speech from YouTube)
+2. ADReSSo21: 166 samples (clinical interview data)
 
-**Data Structure:**
-```
-data/
-├── dementia/
-│   ├── PersonName1/
-│   │   ├── audio1.wav
-│   │   └── audio2.wav
-│   └── PersonName2/
-│       └── audio1.wav
-└── nodementia/
-    ├── PersonName3/
-    │   └── audio1.wav
-    └── PersonName4/
-        └── audio1.wav
-```
+**Total**: 621 samples (199 dementia, 422 nodementia)
+
+**Splits** (patient-level):
+- Training: 480 → 590 with oversampling (balanced 50/50)
+- Validation: 69 samples
+- Test: 72 samples
+
+---
 
 ## Installation
 
-### 1. Clone the repository
+### Requirements
+- Python 3.12+
+- CUDA 12.4
+- ~5GB disk space
+- ~8GB GPU memory
+
+### Setup
+
 ```bash
 git clone <your-repo-url>
 cd dementia_assessment
-```
 
-### 2. Create virtual environment
-```bash
 python3.12 -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
+source venv/bin/activate
 
-### 3. Install dependencies
-
-**Option A: With CUDA 12.4 (recommended for training)**
-```bash
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
 pip install -r requirements.txt
 ```
 
-**Option B: CPU-only**
-```bash
-pip install -r requirements.txt
-```
+### Download Data
 
-### 4. Download the data
 ```bash
 python download_audio.py
 ```
 
-**Note:** If automatic download fails (Google Drive >50 files limit), manually download the data:
-1. Download `dementia.zip` and `nodementia.zip` from the Google Drive link (provided separately)
-2. Extract to `data/dementia/` and `data/nodementia/`
+Or download manually from Google Drive (link provided separately).
+
+---
 
 ## Usage
 
-### 1. Generate train/validation splits
+### Training
+
+**Jupyter Notebook (recommended):**
 ```bash
-python generate_csv.py
+jupyter notebook train_v2_improved.ipynb
+# Run all cells
 ```
 
-This creates:
-- `data/train_dm_new.csv` (359 samples: 110 dementia, 249 nodementia)
-- `data/valid_dm_new.csv` (96 samples: 21 dementia, 75 nodementia)
-
-**Important:** Uses `GroupShuffleSplit` to prevent data leakage (same speaker never appears in both train and validation).
-
-### 2. Train a model
+**Python Script:**
 ```bash
-python train_model.py --model_type wav2vec2 --epochs 5 --batch_size 4 --lr 3e-5
+python train_v2_improved.py
 ```
 
-**Supported models:**
-- `wav2vec2` (default) - facebook/wav2vec2-base (95M params)
-- `ast` - MIT Audio Spectrogram Transformer
-- `hubert` - facebook/hubert-base
-- `whisper` - OpenAI Whisper encoder (falls back to wav2vec2)
+Training time: ~45 minutes on A100 GPU
 
-**Training parameters:**
-- Audio resampled to 16kHz
-- Clips truncated/padded to 10 seconds
-- Checkpoints saved to `./results/{model}-finetuned/`
+### Inference
+
+```python
+from transformers import AutoFeatureExtractor, AutoModelForAudioClassification
+import torch
+import torchaudio
+
+# Load model
+model_path = "results/wav2vec2-base-improved-v2"
+feature_extractor = AutoFeatureExtractor.from_pretrained(model_path)
+model = AutoModelForAudioClassification.from_pretrained(model_path)
+
+# Load audio (15s, 16kHz, mono)
+waveform, sr = torchaudio.load("audio.wav")
+
+# Preprocess
+inputs = feature_extractor(waveform.squeeze().numpy(),
+                           sampling_rate=16000,
+                           return_tensors="pt")
+
+# Predict
+with torch.no_grad():
+    outputs = model(**inputs)
+    predicted_class = torch.argmax(outputs.logits, dim=-1).item()
+
+label = "dementia" if predicted_class == 0 else "nodementia"
+print(f"Prediction: {label}")
+```
+
+---
 
 ## Project Structure
 
 ```
 dementia_assessment/
-├── train_model.py           # Main training script
-├── generate_csv.py          # Create train/valid splits
-├── download_audio.py        # Download DementiaNet data
-├── requirements.txt         # Python dependencies
-├── .gitignore              # Git ignore rules
-├── CLAUDE.md               # Detailed project documentation
-├── README.md               # This file
-├── data/                   # Audio data (not in git)
-│   ├── dementia/
-│   ├── nodementia/
-│   ├── train_dm_new.csv
-│   └── valid_dm_new.csv
-├── code_examples/          # Reference notebooks (original 4-class baseline)
-│   ├── 01-prepare-data.ipynb
-│   ├── 02-finetune.ipynb
-│   └── 03-eval.ipynb
-└── files/
-    └── project_7357_zx.pdf  # Project documentation
+├── train_v2_improved.ipynb       # Main training notebook
+├── train_v2_improved.py          # Python script version
+├── RESULTS.md                    # Detailed results
+├── MODEL_CARD.md                 # Model documentation
+├── QUICK_START.md                # Getting started
+├── requirements.txt              # Dependencies
+│
+├── generate_csv_with_test.py    # Generate data splits
+├── generate_combined_dataset.py # Combine datasets
+├── download_audio.py             # Download data
+│
+├── docs/                         # Additional documentation
+│   ├── RUN_V2_IMPROVED.md
+│   ├── TRAINING_ANALYSIS.md
+│   └── GPU_SELECTION_FIX.md
+│
+├── data/                         # Data files
+│   ├── train_dm_combined.csv
+│   ├── valid_dm_combined.csv
+│   └── test_dm_combined.csv
+│
+├── results/
+│   └── wav2vec2-base-improved-v2/  # Trained model
+│
+└── archive/                      # Old scripts
 ```
 
-## Results
+---
 
-**Baseline (4-class task):**
-- Model: wav2vec2-xls-r-300m (300M params)
-- Accuracy: 37.5% on 32 test samples
-- Classes: no dementia, 5 years to dementia, 10 years to dementia, zero years to dementia
-- Issues: Model mostly predicted "five years" and "no dementia" classes
+## How It Works
 
-**Current (binary task):**
-- Binary baseline not yet established
-- Work in progress...
+### Transfer Learning Approach
 
-## Known Issues & Future Work
+**Pre-trained encoder** (94.5M params):
+- Trained on 960 hours of speech
+- Already understands phonetics, prosody, rhythm
+- We keep these weights and fine-tune them
 
-### Issues
-1. **Class imbalance**: 71% nodementia / 29% dementia - models may bias toward majority class
-2. **No test set**: Currently only train/valid splits exist (need 3-way split)
-3. **Small dataset**: Only 455 clips total - augmentation critical
+**Classification head** (~2K params):
+- Small layer on top
+- Maps audio features to dementia/nodementia
+- Trained from scratch on our data
 
-### Planned Improvements
-1. **Audio augmentation**: Time stretch, pitch shift, noise injection, SpecAugment
-2. **Multiple crops per file**: Use overlapping 10s windows to effectively multiply data
-3. **Class weighting**: Use `CrossEntropyLoss(weight=...)` to address imbalance
-4. **Stratified splitting**: Ensure train/valid have similar class distributions
-5. **Segment length experiments**: Compare 10s vs 15s vs 20s vs 30s clips
-6. **Attention visualization**: Extract and visualize attention maps over audio waveforms
-7. **INT8 quantization**: Post-training quantization for deployment efficiency
-8. **Test set creation**: Proper held-out evaluation set
+This approach works well with small datasets because we're not learning speech understanding from scratch.
 
-## Environment
+---
 
-- **Hardware**: A100 GPU with CUDA 12.4
-- **Python**: 3.12.3
-- **Key packages**:
-  - PyTorch 2.6.0+cu124
-  - transformers 5.1.0
-  - torchaudio 2.6.0+cu124
-  - datasets 4.5.0
-  - librosa 0.11.0
-  - audiomentations 0.43.1
+## Limitations
 
-## Citation & Attribution
+### Technical
+- Small dataset (621 samples)
+- Low sensitivity (43.75% - misses over half of dementia cases)
+- English only
+- Fixed 15-second audio length
 
-Dataset: **DementiaNet corpus** (attribution details to be added)
+### Clinical
+- **Not diagnostic-grade** - sensitivity too low for clinical use
+- No FDA approval
+- Not validated on diverse populations
+- Should not replace clinical assessment
 
-Project developed as part of coursework under the instruction of **Zongxing Xie**.
+### Appropriate Use
+- Research tool
+- Preliminary screening (combined with other tests)
+- Population risk assessment
+- **NOT** standalone clinical diagnosis
 
-## License
+---
 
-(To be determined - add appropriate license for your coursework)
+## Acknowledgments
 
-## Contact
+**Datasets:**
+- DementiaNet corpus
+- ADReSSo Challenge 2021
 
-(Add your contact information or leave blank)
+**Course Project:**
+- Instructor: Zongxing Xie
+- Institution: Kennesaw State University
+
+**Tools:**
+- HuggingFace Transformers
+- PyTorch
+- Facebook AI Research (Wav2Vec2)
+
+---
+
+**Last Updated**: February 25, 2026
+**Model Version**: 2.0
+**Status**: Research-ready, not clinical-grade
