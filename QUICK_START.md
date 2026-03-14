@@ -104,8 +104,6 @@ Check available GPUs: `nvidia-smi`
 ## Additional Documentation
 
 - [RESULTS.md](RESULTS.md) - Detailed performance analysis
-- [docs/RUN_V2_IMPROVED.md](docs/RUN_V2_IMPROVED.md) - Complete training guide
-- [docs/TRAINING_ANALYSIS.md](docs/TRAINING_ANALYSIS.md) - Why V1 failed
 
 ---
 

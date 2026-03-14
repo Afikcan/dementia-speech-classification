@@ -1,6 +1,8 @@
 # Audio data
 data/dementia/
 data/nodementia/
+data/ADReSSo21_data/
+data/pitt_data/
 *.wav
 *.mp3
 *.flac

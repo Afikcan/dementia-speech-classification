@@ -118,11 +118,6 @@ jupyter notebook train_v2_improved.ipynb
 # Run all cells
 ```
 
-**Python Script:**
-```bash
-python train_v2_improved.py
-```
-
 Training time: ~45 minutes on A100 GPU
 
 ### Inference
@@ -160,32 +155,27 @@ print(f"Prediction: {label}")
 
 ```
 dementia_assessment/
-├── train_v2_improved.ipynb       # Main training notebook
-├── train_v2_improved.py          # Python script version
-├── RESULTS.md                    # Detailed results
-├── MODEL_CARD.md                 # Model documentation
-├── QUICK_START.md                # Getting started
-├── requirements.txt              # Dependencies
+├── train_v2_improved.ipynb            # Main training notebook
+├── RESULTS.md                         # Detailed results
+├── QUICK_START.md                     # Getting started
+├── requirements.txt                   # Dependencies
 │
-├── generate_csv_with_test.py    # Generate data splits
-├── generate_combined_dataset.py # Combine datasets
-├── download_audio.py             # Download data
+├── generate_csv_with_test.py         # Generate train/valid/test splits
+├── generate_combined_dataset.py      # Combine DementiaNet + ADReSSo21
+├── download_audio.py                  # Download DementiaNet from Google Drive
 │
-├── docs/                         # Additional documentation
-│   ├── RUN_V2_IMPROVED.md
-│   ├── TRAINING_ANALYSIS.md
-│   └── GPU_SELECTION_FIX.md
-│
-├── data/                         # Data files
-│   ├── train_dm_combined.csv
-│   ├── valid_dm_combined.csv
-│   └── test_dm_combined.csv
+├── data/                              # Data split CSVs (no audio files)
+│   ├── train_dm_combined.csv          # 480 training samples
+│   ├── valid_dm_combined.csv          # 69 validation samples
+│   └── test_dm_combined.csv           # 72 held-out test samples
 │
 ├── results/
-│   └── wav2vec2-base-improved-v2/  # Trained model
+│   └── wav2vec2-base-improved-v2/    # Trained model (not in git — see below)
 │
-└── archive/                      # Old scripts
+└── archive/                           # Helper scripts (notebook generation)
 ```
+
+> **Note:** Model weights (`results/`) and raw audio files are excluded from this repository. The trained model is ~361MB. Run `train_v2_improved.ipynb` to reproduce it.
 
 ---
 

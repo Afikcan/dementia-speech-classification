@@ -1,0 +1,481 @@
+file	label	path	source
+JackWebster_10	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Jack Webster/JackWebster_10.wav	DementiaNet
+JackWebster_5	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Jack Webster/JackWebster_5.wav	DementiaNet
+emilegriffith_5	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Emile Griffith/emilegriffith_5.wav	DementiaNet
+RonaldReagan_10	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Ronald Reagan/RonaldReagan_10.wav	DementiaNet
+RonaldReagan_5	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Ronald Reagan/RonaldReagan_5.wav	DementiaNet
+ralphklein_5_1	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Ralph Klein/ralphklein_5_1.wav	DementiaNet
+ralphklein_5_2	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Ralph Klein/ralphklein_5_2.wav	DementiaNet
+TimConway_10	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Tim Conway/TimConway_10.wav	DementiaNet
+TimConway_5	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Tim Conway/TimConway_5.wav	DementiaNet
+TedTurner_5	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Ted Turner/TedTurner_5.wav	DementiaNet
+TedTurner_0	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Ted Turner/TedTurner_0.wav	DementiaNet
+LeroneBennettJr_10	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Lerone Bennett Jr/LeroneBennettJr_10.wav	DementiaNet
+DavidProwse_0	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/David Prowse/DavidProwse_0.wav	DementiaNet
+DavidProwse_5	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/David Prowse/DavidProwse_5.wav	DementiaNet
+DavidProwse_10	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/David Prowse/DavidProwse_10.wav	DementiaNet
+thomasdorsey_0	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Thomas Dorsey/thomasdorsey_0.wav	DementiaNet
+IrisMurdoch_5	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Iris Murdoch/IrisMurdoch_5.wav	DementiaNet
+IrisMurdoch_10	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Iris Murdoch/IrisMurdoch_10.wav	DementiaNet
+TonyParkes_5	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Tony Parkes/TonyParkes_5.wav	DementiaNet
+TonyParkes_10	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Tony Parkes/TonyParkes_10.wav	DementiaNet
+jimmclean_10	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Jim McLean/jimmclean_10.wav	DementiaNet
+georgerobb_10	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/George Robb/georgerobb_10.wav	DementiaNet
+vivnicholson_5	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Viv Nicholson/vivnicholson_5.wav	DementiaNet
+daningram_15	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Dan Ingram/daningram_15.wav	DementiaNet
+JimNeidhart_0	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Jim Neidhart/JimNeidhart_0.wav	DementiaNet
+JimNeidhart_15	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Jim Neidhart/JimNeidhart_15.wav	DementiaNet
+JimNeidhart_10	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Jim Neidhart/JimNeidhart_10.wav	DementiaNet
+GregFingersTaylor_10	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Greg Fingers Taylor/GregFingersTaylor_10.wav	DementiaNet
+CharlesKKao_0	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Charles K Kao/CharlesKKao_0.wav	DementiaNet
+jessehelms_0	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Jesse Helms/jessehelms_0.wav	DementiaNet
+jessehelms_5_2	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Jesse Helms/jessehelms_5_2.wav	DementiaNet
+jessehelms_5_1	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Jesse Helms/jessehelms_5_1.wav	DementiaNet
+RobinWilliams_0	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Robin Williams/RobinWilliams_0.wav	DementiaNet
+RayGalton_5	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Ray Galton/RayGalton_5.wav	DementiaNet
+JeanneLittle_10	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Jeanne Little/JeanneLittle_10.wav	DementiaNet
+patpariseau_10_1	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Pat Pariseau/patpariseau_10_1.wav	DementiaNet
+patpariseau_10_2	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Pat Pariseau/patpariseau_10_2.wav	DementiaNet
+TerryPratchett_5	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Terry Pratchett/TerryPratchett_5.wav	DementiaNet
+TerryPratchett_0	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Terry Pratchett/TerryPratchett_0.wav	DementiaNet
+PaulinePhillips_10	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Pauline Phillips/PaulinePhillips_10.wav	DementiaNet
+alanramsey_10	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Alan Ramsey/alanramsey_10.wav	DementiaNet
+JimmyCalderwood_5	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Jimmy Calderwood/JimmyCalderwood_5.wav	DementiaNet
+georgeklein_5_3	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/George Klein/georgeklein_5_3.wav	DementiaNet
+georgeklein_5_1	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/George Klein/georgeklein_5_1.wav	DementiaNet
+georgeklein_5_2	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/George Klein/georgeklein_5_2.wav	DementiaNet
+CharlesBronson_15	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Charles Bronson/CharlesBronson_15.wav	DementiaNet
+CharlesBronson_10	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Charles Bronson/CharlesBronson_10.wav	DementiaNet
+bbking_15	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/B B King/bbking_15.wav	DementiaNet
+bbking_10	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/B B King/bbking_10.wav	DementiaNet
+bbking_0	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/B B King/bbking_0.wav	DementiaNet
+mauricehinchey_0_1	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Maurice Hinchey/mauricehinchey_0_1.wav	DementiaNet
+mauricehinchey_0_2	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Maurice Hinchey/mauricehinchey_0_2.wav	DementiaNet
+mauricehinchey_5	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Maurice Hinchey/mauricehinchey_5.wav	DementiaNet
+RobertAnderson_10	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Robert Anderson/RobertAnderson_10.wav	DementiaNet
+peterreveen_15	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Peter Reveen/peterreveen_15.wav	DementiaNet
+TeresaGorman_10	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Teresa Gorman/TeresaGorman_10.wav	DementiaNet
+RayDolby_10	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Ray Dolby/RayDolby_10.wav	DementiaNet
+RayDolby_0	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Ray Dolby/RayDolby_0.wav	DementiaNet
+paulhornung_10	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Paul Hornung/paulhornung_10.wav	DementiaNet
+paulhornung_0	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Paul Hornung/paulhornung_0.wav	DementiaNet
+Vampiro_0	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Vampiro/Vampiro_0.wav	DementiaNet
+Vampiro_5	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Vampiro/Vampiro_5.wav	DementiaNet
+JoeConley_0	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Joe Conley/JoeConley_0.wav	DementiaNet
+PeterMax_15	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Peter Max/PeterMax_15.wav	DementiaNet
+PeterMax_10	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Peter Max/PeterMax_10.wav	DementiaNet
+antonyflew_5_2	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Antony Flew/antonyflew_5_2.wav	DementiaNet
+antonyflew_10	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Antony Flew/antonyflew_10.wav	DementiaNet
+antonyflew_5_1	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Antony Flew/antonyflew_5_1.wav	DementiaNet
+maureenforrester_5	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Maureen Forrester/maureenforrester_5.wav	DementiaNet
+aileenhernandez_5_1	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Aileen Hernandez/aileenhernandez_5_1.wav	DementiaNet
+aileenhernandez_5_2	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Aileen Hernandez/aileenhernandez_5_2.wav	DementiaNet
+aileenhernandez_0	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Aileen Hernandez/aileenhernandez_0.wav	DementiaNet
+RossMacDonald_10	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Ross Mac Donald/RossMacDonald_10.wav	DementiaNet
+DonLane_0	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Don Lane/DonLane_0.wav	DementiaNet
+BarryCohen_5	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Barry Cohen/BarryCohen_5.wav	DementiaNet
+DonaldSterling_5	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Donald Sterling/DonaldSterling_5.wav	DementiaNet
+JackHanna_15	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Jack Hanna/JackHanna_15.wav	DementiaNet
+JackHanna_10	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Jack Hanna/JackHanna_10.wav	DementiaNet
+EstelleGetty_15	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Estelle Getty/EstelleGetty_15.wav	DementiaNet
+BobbyWomack_0	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Bobby Womack/BobbyWomack_0.wav	DementiaNet
+TonyBennett_0	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Tony Bennett/TonyBennett_0.wav	DementiaNet
+TonyBennett_15	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Tony Bennett/TonyBennett_15.wav	DementiaNet
+AbeBurrows_5	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Abe Burrows/AbeBurrows_5.wav	DementiaNet
+andrewsachs_15	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Andrew Sachs/andrewsachs_15.wav	DementiaNet
+andrewsachs_10	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Andrew Sachs/andrewsachs_10.wav	DementiaNet
+CaseyKasem_15	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Casey Kasem/CaseyKasem_15.wav	DementiaNet
+CaseyKasem_5	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Casey Kasem/CaseyKasem_5.wav	DementiaNet
+AllanBurns_5	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Allan Burns/AllanBurns_5.wav	DementiaNet
+ronano_rahilly_15_1	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Ronan O_Rahilly/ronano_rahilly_15_1.wav	DementiaNet
+ronano_rahilly_15_2	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Ronan O_Rahilly/ronano_rahilly_15_2.wav	DementiaNet
+Jessejackson_0	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Jessejackson/Jessejackson_0.wav	DementiaNet
+StanBowles_5	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Stan Bowles/StanBowles_5.wav	DementiaNet
+ErnieSigley_15	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Ernie Sigley/ErnieSigley_15.wav	DementiaNet
+leonredbone_15	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Leon Redbone/leonredbone_15.wav	DementiaNet
+DavidMilch_10	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/David Milch/DavidMilch_10.wav	DementiaNet
+DavidMilch_15	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/David Milch/DavidMilch_15.wav	DementiaNet
+woodydurham_0_2	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/Woody Durham/woodydurham_0_2.wav	DementiaNet
+JamesStewart_5	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/dementia/James Stewart/JamesStewart_5.wav	DementiaNet
+MartinSheen_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Martin Sheen/MartinSheen_3.wav	DementiaNet
+MartinSheen_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Martin Sheen/MartinSheen_2.wav	DementiaNet
+MartinSheen_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Martin Sheen/MartinSheen_1.wav	DementiaNet
+JohnCleese_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/John Cleese/JohnCleese_1.wav	DementiaNet
+JohnCleese_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/John Cleese/JohnCleese_3.wav	DementiaNet
+DionneWarwick_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Dionne Warwick/DionneWarwick_3.wav	DementiaNet
+DionneWarwick_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Dionne Warwick/DionneWarwick_1.wav	DementiaNet
+DerekJacobi_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Derek Jacobi/DerekJacobi_3.wav	DementiaNet
+DerekJacobi_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Derek Jacobi/DerekJacobi_1.wav	DementiaNet
+BobDylan_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Bob Dylan/BobDylan_3.wav	DementiaNet
+BobDylan_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Bob Dylan/BobDylan_1.wav	DementiaNet
+BobDylan_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Bob Dylan/BobDylan_2.wav	DementiaNet
+SamWaterston_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Sam Waterston/SamWaterston_1.wav	DementiaNet
+SamWaterston_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Sam Waterston/SamWaterston_3.wav	DementiaNet
+JaneFonda_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Jane Fonda/JaneFonda_3.wav	DementiaNet
+Jane Fonda_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Jane Fonda/Jane Fonda_1.wav	DementiaNet
+RobertVaughn_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Robert Vaughn/RobertVaughn_3.wav	DementiaNet
+RobertVaughn_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Robert Vaughn/RobertVaughn_2.wav	DementiaNet
+RobertVaughn_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Robert Vaughn/RobertVaughn_1.wav	DementiaNet
+LeeMajors_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Lee Majors/LeeMajors_3.wav	DementiaNet
+LeeMajors_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Lee Majors/LeeMajors_2.wav	DementiaNet
+JeanneMoreau_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Jeanne Moreau/JeanneMoreau_3.wav	DementiaNet
+JeanneMoreau_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Jeanne Moreau/JeanneMoreau_1.wav	DementiaNet
+JoanCollins_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Joan Collins/JoanCollins_3.wav	DementiaNet
+JoanCollins_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Joan Collins/JoanCollins_1.wav	DementiaNet
+JoanCollins_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Joan Collins/JoanCollins_2.wav	DementiaNet
+DonaldSutherland_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Donald Sutherland/DonaldSutherland_3.wav	DementiaNet
+DonaldSutherland_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Donald Sutherland/DonaldSutherland_2.wav	DementiaNet
+DonaldSutherland_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Donald Sutherland/DonaldSutherland_1.wav	DementiaNet
+JerryLewis3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Jerry Lewis/JerryLewis3.wav	DementiaNet
+JerryLewis2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Jerry Lewis/JerryLewis2.wav	DementiaNet
+JerryLewis1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Jerry Lewis/JerryLewis1.wav	DementiaNet
+Clint Eastwood_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Clint Eastwood/Clint Eastwood_1.wav	DementiaNet
+Clint Eastwood_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Clint Eastwood/Clint Eastwood_3.wav	DementiaNet
+Clint Eastwood_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Clint Eastwood/Clint Eastwood_2.wav	DementiaNet
+AlPacino_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Al Pacino/AlPacino_1.wav	DementiaNet
+AlPacino_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Al Pacino/AlPacino_2.wav	DementiaNet
+AlPacino_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Al Pacino/AlPacino_3.wav	DementiaNet
+BarbraStreisand_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Barbra Streisand/BarbraStreisand_2.wav	DementiaNet
+BarbraStreisand_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Barbra Streisand/BarbraStreisand_3.wav	DementiaNet
+BarbraStreisand_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Barbra Streisand/BarbraStreisand_1.wav	DementiaNet
+RaquelWelch_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Raquel Welch/RaquelWelch_2.wav	DementiaNet
+RaquelWelch_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Raquel Welch/RaquelWelch_1.wav	DementiaNet
+RaquelWelch_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Raquel Welch/RaquelWelch_3.wav	DementiaNet
+JamesCaan_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/James Caan/JamesCaan_2.wav	DementiaNet
+JamesCaan_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/James Caan/JamesCaan_1.wav	DementiaNet
+JamesCaan_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/James Caan/JamesCaan_3.wav	DementiaNet
+Prince Philip_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Prince Philip/Prince Philip_3.wav	DementiaNet
+Prince Philip_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Prince Philip/Prince Philip_1.wav	DementiaNet
+Prince Philip_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Prince Philip/Prince Philip_2.wav	DementiaNet
+JerryStiller_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Jerry Stiller/JerryStiller_3.wav	DementiaNet
+JerryStiller_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Jerry Stiller/JerryStiller_2.wav	DementiaNet
+Chuck norris_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Chuck norris/Chuck norris_1.wav	DementiaNet
+Chuck norris_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Chuck norris/Chuck norris_2.wav	DementiaNet
+Chuck norris_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Chuck norris/Chuck norris_3.wav	DementiaNet
+Jimmy carter_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Jimmy Carter/Jimmy carter_3.wav	DementiaNet
+Jimmy carter_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Jimmy Carter/Jimmy carter_2.wav	DementiaNet
+MickJagger_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Mick Jagger/MickJagger_2.wav	DementiaNet
+MickJagger_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Mick Jagger/MickJagger_1.wav	DementiaNet
+MickJagger_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Mick Jagger/MickJagger_3.wav	DementiaNet
+HarryBelafonte_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Harry Belafonte/HarryBelafonte_3.wav	DementiaNet
+HarryBelafonte_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Harry Belafonte/HarryBelafonte_2.wav	DementiaNet
+HarryBelafonte_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Harry Belafonte/HarryBelafonte_1.wav	DementiaNet
+Angela Lansbury_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Angela Lansbury/Angela Lansbury_3.wav	DementiaNet
+Angela Lansbury_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Angela Lansbury/Angela Lansbury_2.wav	DementiaNet
+Angela Lansbury_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Angela Lansbury/Angela Lansbury_1.wav	DementiaNet
+RobertWagner_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Robert Wagner/RobertWagner_3.wav	DementiaNet
+RobertWagner_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Robert Wagner/RobertWagner_2.wav	DementiaNet
+PeterFonda_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Peter Fonda/PeterFonda_1.wav	DementiaNet
+PeterFonda_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Peter Fonda/PeterFonda_3.wav	DementiaNet
+PeterFonda_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Peter Fonda/PeterFonda_2.wav	DementiaNet
+sidney poiter_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Sidney Poiter/sidney poiter_2.wav	DementiaNet
+sidney poiter_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Sidney Poiter/sidney poiter_1.wav	DementiaNet
+sidney poiter_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Sidney Poiter/sidney poiter_3.wav	DementiaNet
+MartinScorsese_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Martin Scorsese/MartinScorsese_2.wav	DementiaNet
+MartinScorsese_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Martin Scorsese/MartinScorsese_1.wav	DementiaNet
+MartinScorsese_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Martin Scorsese/MartinScorsese_3.wav	DementiaNet
+TerryGilliam_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Terry Gilliam/TerryGilliam_3.wav	DementiaNet
+TerryGilliam_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Terry Gilliam/TerryGilliam_1.wav	DementiaNet
+TerryGilliam_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Terry Gilliam/TerryGilliam_2.wav	DementiaNet
+Pele_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Pele/Pele_2.wav	DementiaNet
+Pele_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Pele/Pele_1.wav	DementiaNet
+Pel‚_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Pele/Pel‚_3.wav	DementiaNet
+Stan Lee_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Stan Lee/Stan Lee_1.wav	DementiaNet
+Stan Lee_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Stan Lee/Stan Lee_2.wav	DementiaNet
+Stan Lee_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Stan Lee/Stan Lee_3.wav	DementiaNet
+AngeloBadalamenti_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Angelo Badalamenti/AngeloBadalamenti_3.wav	DementiaNet
+AngeloBadalamenti_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Angelo Badalamenti/AngeloBadalamenti_1.wav	DementiaNet
+AngeloBadalamenti_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Angelo Badalamenti/AngeloBadalamenti_2.wav	DementiaNet
+BillWyman_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Bill Wyman/BillWyman_2.wav	DementiaNet
+BillWyman_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Bill Wyman/BillWyman_1.wav	DementiaNet
+BillWyman_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Bill Wyman/BillWyman_3.wav	DementiaNet
+SophiaLoren_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Sophia Loren/SophiaLoren_2.wav	DementiaNet
+SophiaLoren_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Sophia Loren/SophiaLoren_1.wav	DementiaNet
+LineRenaud_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Line Renaud/LineRenaud_3.wav	DementiaNet
+LineRenaud_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Line Renaud/LineRenaud_1.wav	DementiaNet
+james earl jones_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/James Earl Jones/james earl jones_2.wav	DementiaNet
+james earl jones_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/James Earl Jones/james earl jones_1.wav	DementiaNet
+PeterLupus_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Peter Lupus/PeterLupus_2.wav	DementiaNet
+JamesCromwell_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/James Cromwell/JamesCromwell_3.wav	DementiaNet
+MichaelGambon_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Michael Gambon/MichaelGambon_3.wav	DementiaNet
+MichaelGambon_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Michael Gambon/MichaelGambon_2.wav	DementiaNet
+MartinLandau_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Martin Landau/MartinLandau_3.wav	DementiaNet
+MartinLandau_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Martin Landau/MartinLandau_2.wav	DementiaNet
+MartinLandau_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Martin Landau/MartinLandau_1.wav	DementiaNet
+Kirk Douglas_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Kirk Douglas/Kirk Douglas_3.wav	DementiaNet
+Kirk Douglas_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Kirk Douglas/Kirk Douglas_1.wav	DementiaNet
+Kirk Douglas_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Kirk Douglas/Kirk Douglas_2.wav	DementiaNet
+CharlesAznavour_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Charles Aznavour/CharlesAznavour_2.wav	DementiaNet
+CharlesAznavour_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Charles Aznavour/CharlesAznavour_3.wav	DementiaNet
+CharlesAznavour_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Charles Aznavour/CharlesAznavour_1.wav	DementiaNet
+David Attenboroug_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/David Attenboroug/David Attenboroug_3.wav	DementiaNet
+DickVanPatten_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Dick van Patten/DickVanPatten_1.wav	DementiaNet
+DickVanPatten_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Dick van Patten/DickVanPatten_3.wav	DementiaNet
+MireilleDarc_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Mireille Darc/MireilleDarc_2.wav	DementiaNet
+MireilleDarc_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Mireille Darc/MireilleDarc_3.wav	DementiaNet
+Patrick Stewart_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Patrick Stewart/Patrick Stewart_2.wav	DementiaNet
+Patrick Stewart_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Patrick Stewart/Patrick Stewart_3.wav	DementiaNet
+Patrick Stewart_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Patrick Stewart/Patrick Stewart_1.wav	DementiaNet
+CharlieWatts_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Charlie Watts/CharlieWatts_1.wav	DementiaNet
+CharlieWatts_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Charlie Watts/CharlieWatts_3.wav	DementiaNet
+HankAaron_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Hank Aaron/HankAaron_2.wav	DementiaNet
+HankAaron_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Hank Aaron/HankAaron_1.wav	DementiaNet
+HankAaron_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Hank Aaron/HankAaron_3.wav	DementiaNet
+PaulSorvino_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Paul Sorvino/PaulSorvino_2.wav	DementiaNet
+PaulSorvino_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Paul Sorvino/PaulSorvino_3.wav	DementiaNet
+MilosForman_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Milos Forman/MilosForman_2.wav	DementiaNet
+MilosForman_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Milos Forman/MilosForman_3.wav	DementiaNet
+MilosForman_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Milos Forman/MilosForman_1.wav	DementiaNet
+SteveReich_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Steve Reich/SteveReich_2.wav	DementiaNet
+SteveReich_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Steve Reich/SteveReich_3.wav	DementiaNet
+LindaEvans_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Linda Evans/LindaEvans_1.wav	DementiaNet
+LindaEvans_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Linda Evans/LindaEvans_2.wav	DementiaNet
+LindaEvans_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Linda Evans/LindaEvans_3.wav	DementiaNet
+MerleHaggard_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Merle Haggard/MerleHaggard_2.wav	DementiaNet
+MerleHaggard_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Merle Haggard/MerleHaggard_1.wav	DementiaNet
+MerleHaggard_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Merle Haggard/MerleHaggard_3.wav	DementiaNet
+MichelPiccoli_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Michel Piccoli/MichelPiccoli_2.wav	DementiaNet
+MichelPiccoli_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Michel Piccoli/MichelPiccoli_1.wav	DementiaNet
+MichelPiccoli_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Michel Piccoli/MichelPiccoli_3.wav	DementiaNet
+BrianDePalma_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Brian De Palma/BrianDePalma_1.wav	DementiaNet
+BrianDePalma_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Brian De Palma/BrianDePalma_2.wav	DementiaNet
+BrianDePalma_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Brian De Palma/BrianDePalma_3.wav	DementiaNet
+Michael Caine_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Michael Caine/Michael Caine_1.wav	DementiaNet
+Michael Caine_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Michael Caine/Michael Caine_2.wav	DementiaNet
+Michael Caine_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Michael Caine/Michael Caine_3.wav	DementiaNet
+AlanArkin_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Alan Arkin/AlanArkin_3.wav	DementiaNet
+AlanArkin_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Alan Arkin/AlanArkin_1.wav	DementiaNet
+KennyRogers_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Kenny Rogers/KennyRogers_3.wav	DementiaNet
+KennyRogers_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Kenny Rogers/KennyRogers_1.wav	DementiaNet
+YokoOno_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Yoko Ono/YokoOno_2.wav	DementiaNet
+YokoOno_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Yoko Ono/YokoOno_1.wav	DementiaNet
+YokoOno_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Yoko Ono/YokoOno_3.wav	DementiaNet
+Warren Buffett_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Warren Buffett/Warren Buffett_2.wav	DementiaNet
+Warren Buffett_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Warren Buffett/Warren Buffett_1.wav	DementiaNet
+WarrenBuffett_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Warren Buffett/WarrenBuffett_3.wav	DementiaNet
+BernieSanders_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Bernie Sanders/BernieSanders_3.wav	DementiaNet
+FrankVincent_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Frank Vincent/FrankVincent_3.wav	DementiaNet
+FrankVincent_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Frank Vincent/FrankVincent_2.wav	DementiaNet
+JoePesci_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Joe Pesci/JoePesci_1.wav	DementiaNet
+JoePesci_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Joe Pesci/JoePesci_2.wav	DementiaNet
+JoePesci_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Joe Pesci/JoePesci_3.wav	DementiaNet
+Queen Elisabeth_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Queen Elisabeth/Queen Elisabeth_3.wav	DementiaNet
+JamesBrolin_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/James Brolin/JamesBrolin_2.wav	DementiaNet
+JamesBrolin_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/James Brolin/JamesBrolin_1.wav	DementiaNet
+JamesBrolin_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/James Brolin/JamesBrolin_3.wav	DementiaNet
+DickCavett_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Dick Cavett/DickCavett_3.wav	DementiaNet
+DickCavett_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Dick Cavett/DickCavett_1.wav	DementiaNet
+JerryBruckheimer_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Jerry Bruckheimer/JerryBruckheimer_3.wav	DementiaNet
+JerryBruckheimer_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Jerry Bruckheimer/JerryBruckheimer_2.wav	DementiaNet
+WernerHerzog_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Werner Herzog/WernerHerzog_1.wav	DementiaNet
+DavidAllanCoe_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/David Allan Coe/DavidAllanCoe_2.wav	DementiaNet
+DavidAllanCoe_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/David Allan Coe/DavidAllanCoe_3.wav	DementiaNet
+DavidAllanCoe_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/David Allan Coe/DavidAllanCoe_1.wav	DementiaNet
+CliffRichard_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Cliff Richard/CliffRichard_3.wav	DementiaNet
+CliffRichard_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Cliff Richard/CliffRichard_2.wav	DementiaNet
+CliffRichard_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Cliff Richard/CliffRichard_1.wav	DementiaNet
+PaulMichaelGlaser_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Paul Michael Glaser/PaulMichaelGlaser_1.wav	DementiaNet
+PaulMichaelGlaser_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Paul Michael Glaser/PaulMichaelGlaser_3.wav	DementiaNet
+GeorgeARomero_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/George A Romero/GeorgeARomero_3.wav	DementiaNet
+GeorgeARomero_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/George A Romero/GeorgeARomero_1.wav	DementiaNet
+GeorgeARomero_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/George A Romero/GeorgeARomero_2.wav	DementiaNet
+RosalynnCarter_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Rosalynn Carter/RosalynnCarter_1.wav	DementiaNet
+RosalynnCarter_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Rosalynn Carter/RosalynnCarter_2.wav	DementiaNet
+RosalynnCarter_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Rosalynn Carter/RosalynnCarter_3.wav	DementiaNet
+WalterMondale_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Walter Mondale/WalterMondale_3.wav	DementiaNet
+Mel brooks_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Mel brooks/Mel brooks_3.wav	DementiaNet
+Mel brooks_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Mel brooks/Mel brooks_2.wav	DementiaNet
+Mel brooks_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Mel brooks/Mel brooks_1.wav	DementiaNet
+DavidCronenberg_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/David Cronenberg/DavidCronenberg_1.wav	DementiaNet
+DavidCronenberg_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/David Cronenberg/DavidCronenberg_2.wav	DementiaNet
+DavidCronenberg_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/David Cronenberg/DavidCronenberg_3.wav	DementiaNet
+GeorgeClinton_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/George Clinton/GeorgeClinton_3.wav	DementiaNet
+GeorgeClinton_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/George Clinton/GeorgeClinton_2.wav	DementiaNet
+GeorgeClinton_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/George Clinton/GeorgeClinton_1.wav	DementiaNet
+BuddyGuy_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Buddy Guy/BuddyGuy_3.wav	DementiaNet
+BuddyGuy_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Buddy Guy/BuddyGuy_2.wav	DementiaNet
+Harrion ford_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Harrion ford/Harrion ford_2.wav	DementiaNet
+Harrion ford_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Harrion ford/Harrion ford_3.wav	DementiaNet
+Harrion ford_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Harrion ford/Harrion ford_1.wav	DementiaNet
+RalphLauren_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Ralph Lauren/RalphLauren_2.wav	DementiaNet
+RalphLauren_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Ralph Lauren/RalphLauren_3.wav	DementiaNet
+WarrenBeatty_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Warren Beatty/WarrenBeatty_3.wav	DementiaNet
+christopher plummer_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Christopher Plummer/christopher plummer_2.wav	DementiaNet
+christopher plummer_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Christopher Plummer/christopher plummer_1.wav	DementiaNet
+christopher plummer_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Christopher Plummer/christopher plummer_3.wav	DementiaNet
+TerryRiley_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Terry Riley/TerryRiley_3.wav	DementiaNet
+TerryRiley_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Terry Riley/TerryRiley_2.wav	DementiaNet
+DavidSoul_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/David Soul/DavidSoul_2.wav	DementiaNet
+DavidSoul_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/David Soul/DavidSoul_3.wav	DementiaNet
+DavidSoul_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/David Soul/DavidSoul_1.wav	DementiaNet
+HarveyKeitel_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Harvey Keitel/HarveyKeitel_3.wav	DementiaNet
+HarveyKeitel_2	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Harvey Keitel/HarveyKeitel_2.wav	DementiaNet
+HarveyKeitel_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Harvey Keitel/HarveyKeitel_1.wav	DementiaNet
+MichaelDukakis_3	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Michael Dukakis/MichaelDukakis_3.wav	DementiaNet
+MichaelDukakis_1	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/nodementia/Michael Dukakis/MichaelDukakis_1.wav	DementiaNet
+adrso218	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso218.wav	ADReSSo21
+adrso089	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso089.wav	ADReSSo21
+adrso247	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso247.wav	ADReSSo21
+adrso078	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso078.wav	ADReSSo21
+adrso106	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso106.wav	ADReSSo21
+adrso250	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso250.wav	ADReSSo21
+adrso031	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso031.wav	ADReSSo21
+adrso224	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso224.wav	ADReSSo21
+adrso125	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso125.wav	ADReSSo21
+adrso049	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso049.wav	ADReSSo21
+adrso205	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso205.wav	ADReSSo21
+adrso027	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso027.wav	ADReSSo21
+adrso212	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso212.wav	ADReSSo21
+adrso036	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso036.wav	ADReSSo21
+adrso024	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso024.wav	ADReSSo21
+adrso035	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso035.wav	ADReSSo21
+adrso189	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso189.wav	ADReSSo21
+adrso116	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso116.wav	ADReSSo21
+adrso123	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso123.wav	ADReSSo21
+adrso222	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso222.wav	ADReSSo21
+adrso122	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso122.wav	ADReSSo21
+adrso109	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso109.wav	ADReSSo21
+adrso043	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso043.wav	ADReSSo21
+adrso055	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso055.wav	ADReSSo21
+adrso128	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso128.wav	ADReSSo21
+adrso068	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso068.wav	ADReSSo21
+adrso215	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso215.wav	ADReSSo21
+adrso188	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso188.wav	ADReSSo21
+adrso077	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso077.wav	ADReSSo21
+adrso190	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso190.wav	ADReSSo21
+adrso059	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso059.wav	ADReSSo21
+adrso245	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso245.wav	ADReSSo21
+adrso234	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso234.wav	ADReSSo21
+adrso138	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso138.wav	ADReSSo21
+adrso032	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso032.wav	ADReSSo21
+adrso112	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso112.wav	ADReSSo21
+adrso045	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso045.wav	ADReSSo21
+adrso075	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso075.wav	ADReSSo21
+adrso197	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso197.wav	ADReSSo21
+adrso187	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso187.wav	ADReSSo21
+adrso074	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso074.wav	ADReSSo21
+adrso144	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso144.wav	ADReSSo21
+adrso244	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso244.wav	ADReSSo21
+adrso228	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso228.wav	ADReSSo21
+adrso198	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso198.wav	ADReSSo21
+adrso033	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso033.wav	ADReSSo21
+adrso070	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso070.wav	ADReSSo21
+adrso223	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso223.wav	ADReSSo21
+adrso209	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso209.wav	ADReSSo21
+adrso206	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso206.wav	ADReSSo21
+adrso202	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso202.wav	ADReSSo21
+adrso025	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso025.wav	ADReSSo21
+adrso063	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso063.wav	ADReSSo21
+adrso233	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso233.wav	ADReSSo21
+adrso056	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso056.wav	ADReSSo21
+adrso237	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso237.wav	ADReSSo21
+adrso253	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso253.wav	ADReSSo21
+adrso141	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso141.wav	ADReSSo21
+adrso071	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso071.wav	ADReSSo21
+adrso093	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso093.wav	ADReSSo21
+adrso053	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso053.wav	ADReSSo21
+adrso232	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso232.wav	ADReSSo21
+adrso246	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso246.wav	ADReSSo21
+adrso060	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso060.wav	ADReSSo21
+adrso211	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso211.wav	ADReSSo21
+adrso046	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso046.wav	ADReSSo21
+adrso028	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso028.wav	ADReSSo21
+adrso236	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso236.wav	ADReSSo21
+adrso200	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso200.wav	ADReSSo21
+adrso248	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso248.wav	ADReSSo21
+adrso092	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso092.wav	ADReSSo21
+adrso192	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso192.wav	ADReSSo21
+adrso216	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso216.wav	ADReSSo21
+adrso090	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso090.wav	ADReSSo21
+adrso220	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso220.wav	ADReSSo21
+adrso098	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso098.wav	ADReSSo21
+adrso229	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso229.wav	ADReSSo21
+adrso130	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso130.wav	ADReSSo21
+adrso047	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso047.wav	ADReSSo21
+adrso072	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso072.wav	ADReSSo21
+adrso110	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso110.wav	ADReSSo21
+adrso054	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso054.wav	ADReSSo21
+adrso142	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso142.wav	ADReSSo21
+adrso126	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso126.wav	ADReSSo21
+adrso039	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso039.wav	ADReSSo21
+adrso134	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso134.wav	ADReSSo21
+adrso249	dementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/ad/adrso249.wav	ADReSSo21
+adrso156	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso156.wav	ADReSSo21
+adrso274	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso274.wav	ADReSSo21
+adrso162	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso162.wav	ADReSSo21
+adrso291	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso291.wav	ADReSSo21
+adrso003	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso003.wav	ADReSSo21
+adrso283	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso283.wav	ADReSSo21
+adrso165	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso165.wav	ADReSSo21
+adrso300	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso300.wav	ADReSSo21
+adrso308	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso308.wav	ADReSSo21
+adrso265	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso265.wav	ADReSSo21
+adrso019	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso019.wav	ADReSSo21
+adrso021	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso021.wav	ADReSSo21
+adrso257	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso257.wav	ADReSSo21
+adrso023	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso023.wav	ADReSSo21
+adrso316	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso316.wav	ADReSSo21
+adrso022	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso022.wav	ADReSSo21
+adrso289	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso289.wav	ADReSSo21
+adrso183	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso183.wav	ADReSSo21
+adrso159	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso159.wav	ADReSSo21
+adrso180	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso180.wav	ADReSSo21
+adrso186	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso186.wav	ADReSSo21
+adrso309	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso309.wav	ADReSSo21
+adrso273	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso273.wav	ADReSSo21
+adrso267	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso267.wav	ADReSSo21
+adrso012	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso012.wav	ADReSSo21
+adrso277	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso277.wav	ADReSSo21
+adrso005	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso005.wav	ADReSSo21
+adrso270	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso270.wav	ADReSSo21
+adrso286	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso286.wav	ADReSSo21
+adrso268	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso268.wav	ADReSSo21
+adrso280	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso280.wav	ADReSSo21
+adrso298	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso298.wav	ADReSSo21
+adrso010	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso010.wav	ADReSSo21
+adrso007	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso007.wav	ADReSSo21
+adrso015	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso015.wav	ADReSSo21
+adrso292	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso292.wav	ADReSSo21
+adrso153	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso153.wav	ADReSSo21
+adrso148	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso148.wav	ADReSSo21
+adrso177	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso177.wav	ADReSSo21
+adrso299	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso299.wav	ADReSSo21
+adrso302	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso302.wav	ADReSSo21
+adrso014	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso014.wav	ADReSSo21
+adrso152	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso152.wav	ADReSSo21
+adrso018	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso018.wav	ADReSSo21
+adrso002	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso002.wav	ADReSSo21
+adrso008	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso008.wav	ADReSSo21
+adrso017	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso017.wav	ADReSSo21
+adrso264	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso264.wav	ADReSSo21
+adrso169	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso169.wav	ADReSSo21
+adrso281	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso281.wav	ADReSSo21
+adrso170	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso170.wav	ADReSSo21
+adrso285	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso285.wav	ADReSSo21
+adrso151	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso151.wav	ADReSSo21
+adrso260	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso260.wav	ADReSSo21
+adrso310	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso310.wav	ADReSSo21
+adrso259	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso259.wav	ADReSSo21
+adrso172	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso172.wav	ADReSSo21
+adrso154	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso154.wav	ADReSSo21
+adrso178	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso178.wav	ADReSSo21
+adrso307	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso307.wav	ADReSSo21
+adrso296	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso296.wav	ADReSSo21
+adrso161	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso161.wav	ADReSSo21
+adrso261	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso261.wav	ADReSSo21
+adrso158	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso158.wav	ADReSSo21
+adrso266	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso266.wav	ADReSSo21
+adrso312	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso312.wav	ADReSSo21
+adrso315	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso315.wav	ADReSSo21
+adrso182	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso182.wav	ADReSSo21
+adrso173	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso173.wav	ADReSSo21
+adrso263	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso263.wav	ADReSSo21
+adrso262	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso262.wav	ADReSSo21
+adrso016	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso016.wav	ADReSSo21
+adrso160	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso160.wav	ADReSSo21
+adrso157	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso157.wav	ADReSSo21
+adrso276	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso276.wav	ADReSSo21
+adrso168	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso168.wav	ADReSSo21
+adrso164	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso164.wav	ADReSSo21
+adrso278	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso278.wav	ADReSSo21
+adrso167	nodementia	/mnt/bst/a100/mkarakay/aozbulut/projects/dementia_assessment/data/ADReSSo21_data/ADReSSo21-diagnosis-train/diagnosis/train/audio/cn/adrso167.wav	ADReSSo21
